@@ -22,7 +22,7 @@ Este repositorio contiene la aplicación web desarrollada para abordar la proble
 
 ✔️ Testing y Calidad de Código: Implementación de pruebas unitarias mediante Vitest.
 
-✔️ Enfoque de Negocio: Avances funcionales diseñados específicamente para responder a las necesidades y problemáticas de AquaChile.
+✖️ Enfoque de Negocio: Avances funcionales diseñados específicamente para responder a las necesidades y problemáticas de AquaChile.
 
 🛠️ Tecnologías Utilizadas
 
