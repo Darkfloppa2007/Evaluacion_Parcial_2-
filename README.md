@@ -1,3 +1,41 @@
+🐟 Proyecto Frontend - Solución AquaChile
+
+Este repositorio contiene la aplicación web desarrollada para abordar la problemática funcional de AquaChile, implementando una interfaz dinámica, responsiva y escalable.
+
+🚀 Características y Requerimientos Implementados
+
+✔️ Frontend con React: Aplicación estructurada modularmente utilizando el ecosistema de React.
+
+✔️ Diseño Responsivo: Estilizado mediante Bootstrap 5 para garantizar adaptabilidad a múltiples dispositivos.
+
+✔️ Arquitectura de Componentes: Uso de componentes reutilizables, pasaje de información mediante props, iteración eficiente de datos con arreglos (Arrays) y renderizado mediante .map().
+
+✔️ Gestión de Estado: Manejo de estados locales dinámicos mediante el hook useState.
+
+✔️ Interactividad: Implementación de controladores de eventos, sistemas de filtrado de datos y renderizado condicional.
+
+✔️ Formularios e Interacción: Formularios interactivos con validación de datos de entrada.
+
+✔️ Enrutamiento y Navegación: Navegación fluida e intuitiva entre vistas mediante React Router.
+
+✔️ Integración de Interfaces: Flujo de navegación coherente y consistente en toda la plataforma.
+
+✔️ Testing y Calidad de Código: Implementación de pruebas unitarias mediante Vitest.
+
+✔️ Enfoque de Negocio: Avances funcionales diseñados específicamente para responder a las necesidades y problemáticas de AquaChile.
+
+🛠️ Tecnologías Utilizadas
+
+React (Biblioteca UI)
+
+Bootstrap 5 (Diseño y Grid System)
+
+React Router (Gestión de Rutas)
+
+Vitest (Framework de Pruebas Unitarias)
+------
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
